@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab03.dir/src/main.cpp.o CMakeFiles/lab03.dir/src/Triangle.cpp.o CMakeFiles/lab03.dir/src/Square.cpp.o CMakeFiles/lab03.dir/src/Rectangle.cpp.o CMakeFiles/lab03.dir/src/Array.cpp.o -o lab03 
